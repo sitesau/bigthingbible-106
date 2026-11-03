@@ -1,0 +1,22 @@
+{
+  "wheel_id": 707,
+  "structure": "umbrella",
+  "slug": "bigthingbible-106",
+  "project": "big-things-brisbane-beginner-guide-fa1d7d1a5d0bed5ccdb202c3d461",
+  "parent_t1_ref": "bigthingbible-152",
+  "node_role": "feeder",
+  "money_target": "bigthingbible.com.au",
+  "primary_kw": "big things brisbane beginner guide",
+  "intended_url": "https://sites-e470-2.web.app/big-things-brisbane-beginner-guide-fa1d7d1a5d0bed5ccdb202c3d461/",
+  "tier": "T2",
+  "writeback_nonce": "31806dd5de22751c",
+  "links": [
+    {
+      "target_url": "http://big-things-brisbane-53542121d39f94d4eb97b849769011ced5da3a46.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "big things brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
